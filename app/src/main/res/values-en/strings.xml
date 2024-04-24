@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FantaAPP</string>
+    <string name="boton_aceptar_compra">Accept</string>
+    <string name="boton_salir">EXIT</string>
+    <string name="texto_bienvenid">algo</string>
+</resources>

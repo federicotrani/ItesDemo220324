@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pepsi</string>
+    <string name="boton_aceptar_compra">Aceptar</string>
+    <string name="boton_salir">SALIR</string>
+    <string name="texto_bienvenid">Ingresar</string>
+</resources>

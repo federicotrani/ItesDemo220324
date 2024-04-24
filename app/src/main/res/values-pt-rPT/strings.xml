@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacion de ITES</string>
+    <string name="boton_aceptar_compra">OtraCosa</string>
+    <string name="boton_salir">ALGO</string>
+    <string name="texto_bienvenid">algo</string>
+</resources>
